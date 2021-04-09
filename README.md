@@ -1,1 +1,1 @@
-# paper
+# a collection of my projects
